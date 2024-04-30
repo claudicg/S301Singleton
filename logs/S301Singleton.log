@@ -1,0 +1,11 @@
+2024-04-30 11:30:17.578 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:30:32.413 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:35:03.306 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:35:28.560 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:35:34.235 INFO  n1exercici.handlers.Undo  - Undo :: listHistoty :: History was printed.
+2024-04-30 11:36:49.773 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:37:17.578 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:37:40.023 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: New command added.
+2024-04-30 11:37:42.950 INFO  n1exercici.handlers.Undo  - Undo :: listHistoty :: History was printed.
+2024-04-30 11:37:47.330 INFO  n1exercici.handlers.Undo  - Undo :: addCommand :: Method delete last command.
+2024-04-30 11:37:53.721 INFO  n1exercici.handlers.Undo  - Undo :: listHistoty :: History was printed.
